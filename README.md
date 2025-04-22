@@ -1,9 +1,9 @@
 # 😄 Facial Expression Generation Using GAN and Autoencoder
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Model Accuracy](https://img.shields.io/badge/Accuracy-90%25%2B-brightgreen?style=for-the-badge&logo=tensorflow)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
+![Accuracy](https://img.shields.io/badge/ACCURACY-90%25%2B-brightgreen?style=for-the-badge&logo=google)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)
 
 
 This project leverages deep learning to generate facial expressions from labeled data using an **autoencoder architecture** trained on the **CelebA** dataset. The model learns facial features (e.g., "Smiling") and can reconstruct or generate faces conditioned on these attributes.
