@@ -1,4 +1,4 @@
-# 😄 Facial Expression Generation with Labeled Data
+# 😄 Facial Expression Generation Using GAN and Autoencoder
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-ee4c2c?logo=pytorch)
@@ -6,10 +6,6 @@
 ![Colab](https://img.shields.io/badge/Run%20in-Google%20Colab-blue?logo=googlecolab)
 
 This project leverages deep learning to generate facial expressions from labeled data using an **autoencoder architecture** trained on the **CelebA** dataset. The model learns facial features (e.g., "Smiling") and can reconstruct or generate faces conditioned on these attributes.
-
-# Facial Expression Generation with Labeled Data
-
-This project explores the generation of human facial expressions using labeled datasets, leveraging deep learning with PyTorch and the CelebA dataset. It demonstrates the pipeline from data loading to model training, and the generation of facial expressions based on emotion-related attributes (like *Smiling*).
 
 ## 🔍 Overview
 
