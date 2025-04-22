@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-ee4c2c?logo=pytorch)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Model Accuracy](https://img.shields.io/badge/Accuracy-90%25%2B-brightgreen?style=for-the-badge&logo=tensorflow)
 ![Colab](https://img.shields.io/badge/Run%20in-Google%20Colab-blue?logo=googlecolab)
 
 This project leverages deep learning to generate facial expressions from labeled data using an **autoencoder architecture** trained on the **CelebA** dataset. The model learns facial features (e.g., "Smiling") and can reconstruct or generate faces conditioned on these attributes.
